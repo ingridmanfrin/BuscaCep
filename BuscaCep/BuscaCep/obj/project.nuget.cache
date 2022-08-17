@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3RgiaYjYXlX08idOvz5HSK8AgUIzn73eWtD/i54psIcdqTwly4PK6nhJz856K1mkaJ/QB/NwOG3hH9/mmb/8hA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ingrid.caldeira\\Documents\\projetos\\BuscaCep\\BuscaCep\\BuscaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ingrid.caldeira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

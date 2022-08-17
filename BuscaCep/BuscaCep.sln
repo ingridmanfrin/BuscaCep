@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaCep", "BuscaCep\BuscaCep.csproj", "{C1D52BF0-D7A5-4FF6-BD2D-0777F9C8F2FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D52BF0-D7A5-4FF6-BD2D-0777F9C8F2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D52BF0-D7A5-4FF6-BD2D-0777F9C8F2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D52BF0-D7A5-4FF6-BD2D-0777F9C8F2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D52BF0-D7A5-4FF6-BD2D-0777F9C8F2FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7915BA95-6A49-449D-9B4C-AC3B3265AD1B}
+	EndGlobalSection
+EndGlobal
